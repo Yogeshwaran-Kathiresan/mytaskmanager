@@ -2,7 +2,7 @@
 
 ## Overview
 
-A simple task manager application built with React.js, Redux, and TypeScript. This application allows users to add, complete, and delete tasks. It also includes task filtering and is styled using Tailwind CSS.
+A simple task manager application built with React.js, Redux, and TypeScript. This application allows users to add, complete, and delete tasks. It also includes task filtering bases on status(whether completed or not) and the entire app styled using Tailwind CSS.
 
 ## Features
 
@@ -18,3 +18,12 @@ A simple task manager application built with React.js, Redux, and TypeScript. Th
 - Redux
 - TypeScript
 - Tailwind CSS
+
+## How to Run
+  - Download the main change zipped file.
+  - Unzip it and open the project root directory
+  - Open the terminal and Run 'npm install'
+  - Then Run 'npm start'
+  - The Project will be opened in your default browser.
+
+Thanks!
